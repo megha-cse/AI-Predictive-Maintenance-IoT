@@ -1,6 +1,11 @@
 # AI-Powered Predictive Maintenance System for IoT Devices
 
 An educational machine-learning project that estimates machine-failure risk from industrial operating-condition readings using the UCI AI4I 2020 Predictive Maintenance Dataset.
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+[AI Predictive Maintenance Dashboard](https://ai-predictive-maintenance-iot-yqumipkphfabnwkgvrgcxz.streamlit.app/)
 
 ## Features
 - Public dataset download and preprocessing
