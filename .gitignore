@@ -5,9 +5,5 @@ venv/
 .env
 .DS_Store
 .ipynb_checkpoints/
-models/*.pkl
 data/raw/*.csv
 data/processed/*.csv
-outputs/*.png
-outputs/*.csv
-images/*.png
