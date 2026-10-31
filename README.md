@@ -83,7 +83,7 @@ This is a portfolio/learning prototype. It predicts the dataset's machine-failur
 ![API Response](images/http127.png)
 
 ### Normal Prediction
-![Normal Prediction](images/normalli%20predictionnn.png)
+![Normal Prediction](images/normal-prediction.png)
 
 ### High Risk Prediction
 ![High Risk Prediction](images/highhhhh%20riskk%20predictionnn.png)
