@@ -1,0 +1,1 @@
+The trained predictive_maintenance_model.pkl is created after running python main.py.\n

@@ -1,0 +1,1 @@
+Save your dashboard and workflow screenshots in this folder after running the project.\n
